@@ -3,7 +3,9 @@
 ## Installation
 
 Add something like this to your `Packages/manifest.json`
-"com.texture3d.preview": "git://github.com/alerdenisov/com.texture3d.preview.git",
+```
+"com.texture3d.preview": "git://github.com/alerdenisov/com.texture3d.preview.git"
+```
 
 
 # **[Texture3D](https://docs.unity3d.com/ScriptReference/Texture3D.html) preview for [Unity](https://unity3d.com)**
