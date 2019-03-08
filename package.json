@@ -1,0 +1,8 @@
+{
+    "name": "com.texture3d.preview",
+    "author": "raphael-ernaelsten",
+    "displayName": "Unity Texture3D Preview",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "description": "Unity Texture3D Preview plugin"
+}

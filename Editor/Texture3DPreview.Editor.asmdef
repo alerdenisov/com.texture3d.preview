@@ -1,0 +1,16 @@
+{
+    "name": "Texture3DPreview.Editor",
+    "references": [
+        "Texture3DPreview"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
